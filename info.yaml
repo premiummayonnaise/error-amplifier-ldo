@@ -59,8 +59,8 @@ pinout:
   ua[1]: "VN"
   ua[2]: "IBIAS"
   ua[3]: "OUT"
-  ua[4]: "VDD"
-  ua[5]: "VSS"
+  ua[4]: ""
+  ua[5]: ""
 
 # Do not change!
 yaml_version: 6
