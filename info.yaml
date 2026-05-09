@@ -15,7 +15,7 @@ project:
   uses_3v3: true       # Set to true if your project uses 3.3V (VAPWR) in addition to 1.8V (VDPWR)
 
   # Your top module name must start with "tt_um_". Make it unique by including your github username:
-  top_module:  "tt_um_error-amplifier"
+  top_module:  "tt_um_error_amplifier"
 
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:        
@@ -35,7 +35,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "OUT"
+  uo[0]: ""
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
