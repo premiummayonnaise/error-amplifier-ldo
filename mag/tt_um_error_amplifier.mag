@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778328818
+timestamp 1778331545
 << via1 >>
 rect 12410 19760 12480 19830
 rect 12500 19760 12570 19830
@@ -1225,7 +1225,7 @@ rect 27234 2947 27415 3108
 rect 27235 228 27415 2947
 rect 27234 209 27415 228
 rect 27234 0 27414 209
-use error-amplifier  error-amplifier_0 /foss/designs/2026/error-amplifier-ldo/mag
+use error_amplifier  error-amplifier_0
 timestamp 1778328434
 transform 0 -1 14932 1 0 750
 box 0 0 34784 12780

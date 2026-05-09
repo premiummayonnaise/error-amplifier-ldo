@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO tt_um_error-amplifier
+MACRO tt_um_error_amplifier
   CLASS BLOCK ;
-  FOREIGN tt_um_error-amplifier ;
+  FOREIGN tt_um_error_amplifier ;
   ORIGIN 0.000 0.000 ;
   SIZE 319.240 BY 225.760 ;
   PIN clk
@@ -466,6 +466,6 @@ MACRO tt_um_error-amplifier
         RECT 118.150 0.000 135.770 1.400 ;
         RECT 116.840 -0.010 117.740 0.000 ;
   END
-END tt_um_error-amplifier
+END tt_um_error_amplifier
 END LIBRARY
 
