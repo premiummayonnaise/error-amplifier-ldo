@@ -1,0 +1,34 @@
+
+Magic 8.3 revision 528 - Compiled on Wed Jun 18 09:45:25 PM CEST 2025.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+WARNING: RLIMIT_NOFILE is above 1024 and Tcl_Version<9 this may cause runtime issues [rlim_cur=1048576]
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130(): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as non-electrical types:
+    ubm 
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading "/tmp/drc_check.tcl" from command line.
+Warning: Calma reading is not undoable!  I hope that's OK.
+Library written using GDS-II Release 3.0
+Library name: tt_um_error_amplifier
+Reading "sky130_fd_pr__cap_mim_m3_1_RK594X".
+Reading "sky130_fd_pr__nfet_g5v0d10v5_DNNC3W".
+Reading "sky130_fd_pr__nfet_g5v0d10v5_DQUD5W".
+Reading "sky130_fd_pr__nfet_g5v0d10v5_838SN6".
+Reading "sky130_fd_pr__nfet_g5v0d10v5_686LYQ".
+Reading "sky130_fd_pr__pfet_g5v0d10v5_AXYYHE".
+Reading "sky130_fd_pr__nfet_g5v0d10v5_QN6TJ7".
+Reading "sky130_fd_pr__pfet_g5v0d10v5_DU7D3Y".
+Reading "sky130_fd_pr__pfet_g5v0d10v5_Y7F49Y".
+Reading "sky130_fd_pr__pfet_g5v0d10v5_DETAA8".
+Reading "1st-stage".
+Reading "error_amplifier".
+Reading "tt_um_error_amplifier".
+Loading DRC CIF style.
+=== DRC ERRORS START ===
+=== DRC ERRORS END ===
