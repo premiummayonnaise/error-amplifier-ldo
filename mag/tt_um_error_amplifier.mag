@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1778377458
+timestamp 1778379919
 << via1 >>
 rect 14810 25110 14890 25190
 rect 14910 25110 14990 25190
@@ -1138,7 +1138,7 @@ rect 27310 17970 27340 18040
 rect 27410 17970 27414 18040
 rect 27234 0 27414 17970
 use error_amplifier  error_amplifier_0
-timestamp 1778374683
+timestamp 1778379919
 transform 0 -1 17000 1 0 4000
 box 0 0 36060 13000
 << labels >>

@@ -446,9 +446,9 @@ MACRO tt_um_error_amplifier
   END VAPWR
   OBS
       LAYER nwell ;
-        RECT 24.000 77.100 78.300 143.500 ;
+        RECT 24.000 78.300 76.900 142.100 ;
       LAYER li1 ;
-        RECT 24.200 77.300 78.100 143.300 ;
+        RECT 25.100 78.300 76.900 142.300 ;
       LAYER met1 ;
         RECT 25.500 80.200 85.000 140.300 ;
       LAYER met2 ;
