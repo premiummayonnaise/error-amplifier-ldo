@@ -1,8 +1,8 @@
 magic
 tech sky130A
-timestamp 1778328434
+timestamp 1778374683
 use 1st-stage  1st-stage_0 /foss/designs/icdec-biomedical-pmic/xschem/error-amplifier2/layout
-timestamp 1778315198
-transform 1 0 2000 0 1 5890
-box -2000 -5890 15392 500
+timestamp 1778372845
+transform 1 0 2330 0 1 5890
+box -2330 -5890 15700 610
 << end >>
